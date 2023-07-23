@@ -31,3 +31,4 @@ build
 
 # Ignore vscode setting files
 .vscode/
+.idea/
